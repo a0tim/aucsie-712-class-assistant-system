@@ -1,4 +1,4 @@
 aucsie-712-class-assistant-system
 =================================
 
-aucsie_712 class assistant system
+真理大學資訊工程學系_712教室課堂輔助系統
